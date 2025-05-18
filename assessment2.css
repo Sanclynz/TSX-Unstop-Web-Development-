@@ -1,0 +1,29 @@
+h1 {
+    color: #ff6f61; 
+  }
+p {
+    font-size: 18px; 
+  }
+ul1{
+    b{
+        background-color: aquamarine;
+    }
+}
+ul2{
+    b{
+        background-color:blueviolet;
+    }
+}
+ul3{
+    b{
+        background-color:bisque;
+    }
+}
+h2{
+    color: chartreuse;
+    p{
+        font:sans-serif;
+        margin:0dvb;
+        padding: 0cqmin;
+    }
+}
